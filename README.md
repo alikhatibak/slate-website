@@ -4,6 +4,7 @@ Welcome to the Slate Website repository! This project is dedicated to the web de
 ## Repository Structure
 The repository is organized with the following structure:
 
+```
 .
 ├── /src               # Source code for the website
 │   ├── /css           # Stylesheets
@@ -20,6 +21,7 @@ The repository is organized with the following structure:
 ├── package.json       # Node.js project configuration
 ├── README.md          # Project documentation (you are here)
 └── LICENSE.md         # License information
+```
 
 ## Getting Started
 
