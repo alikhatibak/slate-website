@@ -28,7 +28,7 @@ The repository is organized with the following structure:
 1. **Clone the Repository:**
 
   ```bash
-  git clone https://github.com/YourUsername/Slate-Website.git
+  git clone https://github.com/alikhatibak/Slate-Website.git
   ```
 
 2. Navigate to the Project Directory:
