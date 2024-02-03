@@ -1,0 +1,20 @@
+
+{
+  "name": "slate-app-website",
+  "version": "1.0.0",
+  "description": "Slate App Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alikhatibak/Slate-Website.git"
+  },
+  "keywords": ["slate", "filmmaking", "website"],
+  "author": "Ali Khatib",
+  "license": "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
