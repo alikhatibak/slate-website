@@ -1,5 +1,5 @@
-# Slate Website
-Welcome to the Slate Website repository! This project is dedicated to the web design and development of the official website for [Slate](https://github.com/alikhatibak/Slate.git), the digital slate tool for filmmakers.
+# 🪨 Slate Website
+Welcome to the Slate Website repository! 🌐 This project is dedicated to the web design and development of the official website for [Slate](https://github.com/alikhatibak/Slate.git), the digital slate tool for filmmakers.
 
 ## Repository Structure
 The repository is organized with the following structure:
