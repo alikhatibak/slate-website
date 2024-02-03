@@ -5,21 +5,21 @@ Welcome to the Slate Website repository! This project is dedicated to the web de
 The repository is organized with the following structure:
 
 .
-├── /src # Source code for the website
-│ ├── /css # Stylesheets
-│ ├── /js # JavaScript files
-│ ├── /images # Image assets
-│ ├── /fonts # Font files
-│ ├── /templates # HTML templates
-│ └── index.html # Main HTML file
-├── /docs # Documentation files
-├── /dist # Distribution files (minified, compiled, etc.)
-├── /public # Public files (e.g., favicon.ico)
-├── /node_modules # Node.js modules and dependencies
-├── .gitignore # Git ignore file
-├── package.json # Node.js project configuration
-├── README.md # Project documentation (you are here)
-└── LICENSE.md # License information
+├── /src               # Source code for the website
+│   ├── /css           # Stylesheets
+│   ├── /js            # JavaScript files
+│   ├── /images        # Image assets
+│   ├── /fonts         # Font files
+│   ├── /templates     # HTML templates
+│   └── index.html     # Main HTML file
+├── /docs              # Documentation files
+├── /dist              # Distribution files (minified, compiled, etc.)
+├── /public            # Public files (e.g., favicon.ico)
+├── /node_modules      # Node.js modules and dependencies
+├── .gitignore         # Git ignore file
+├── package.json       # Node.js project configuration
+├── README.md          # Project documentation (you are here)
+└── LICENSE.md         # License information
 
 ## Getting Started
 
