@@ -50,6 +50,12 @@ The repository is organized with the following structure:
   npm run start
   ```
 
+5. Host the site locally
+  ```bash
+  npm i -g serve
+  serve
+  ```
+
 This will start a local development server. Open your browser and visit http://localhost:3000 to view the website.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
