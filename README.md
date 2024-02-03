@@ -53,4 +53,4 @@ The repository is organized with the following structure:
 This will start a local development server. Open your browser and visit http://localhost:3000 to view the website.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-See [LICENSE.md](https://github.com/alikhatibak/Slate/blob/main/Docs/LICENSE.md) for more information.
+See [LICENSE.md](https://github.com/alikhatibak/Slate-Website/blob/main/LICENSE.md) for more information.
