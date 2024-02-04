@@ -50,7 +50,7 @@ The repository is organized with the following structure:
   npm run start
   ```
 
-5. Host the site locally
+5. Host the site locally:
   ```bash
   npm i -g serve
   serve
